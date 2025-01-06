@@ -1,1 +1,1 @@
-# Interactive-Sales-Dashboard-for-Superstore-Using-Excel
+# Interactive Sales Dashboard for Superstore Using Excel
